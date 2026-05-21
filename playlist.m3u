@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://str-01.sunset-media.org/epg.xml"
-#EXTINF: tvg-id="pervy" -1 group-title="С сайтов (VPN)" ,Первый канал HD
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF: tvg-id="pervy" -1 group-title="ТуркменТелеком",Первый канал HD
+http://217.174.229.136:8000/play/a09g
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные" ,Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
@@ -15,8 +15,8 @@ https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
-#EXTINF: tvg-id="otr" -1 group-title="Цитадель-Крым (VPN)",ОТР
-http://tv.ttk.mx:9008
+#EXTINF: tvg-id="otr" -1 group-title="Виктория (VPN)",ОТР
+http://95.47.155.244:8001/play/a009
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Общественные" ,ТВ центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
@@ -32,7 +32,7 @@ https://mhd128.iptv2022.com/p/NaboTYCndhlpPZClXvi9Rw,1779436630/streaming/domash
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF: group-title="Развлекательные"  tvg-id="sarafan" -1,Сарафан
-http://89.218.32.179:18000/play/a03k
+http://185.78.112.47:8077/sarafan/index.m3u8
 
 #EXTINF:-1 tvg-id="zapad-24" tvg-logo="https://iptvx.one/picons/zapad-24.png" group-title="Местные" ,Запад 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
