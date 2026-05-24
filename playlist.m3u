@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://str-01.sunset-media.org/epg.xml"
-#EXTINF: tvg-id="pervy" -1 group-title="ТуркменТелеком",Первый канал HD
-http://217.174.229.136:8000/play/a09g
+#EXTINF: tvg-id="pervy" -1 group-title="VGS Network",Первый канал HD
+http://176.100.46.245:90/PerviyKanal/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные" ,Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
