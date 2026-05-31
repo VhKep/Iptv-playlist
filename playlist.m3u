@@ -16,8 +16,8 @@ https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
-#EXTINF: tvg-id="otr" -1 group-title="Виктория (VPN)",ОТР
-http://95.47.155.244:8001/play/a009
+#EXTINF: tvg-id="otr" -1 group-title="Инет",ОТР
+http://185.46.16.239:8000/OTR
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Общественные" ,ТВ центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
@@ -33,7 +33,7 @@ https://mhd128.iptv2022.com/p/psxN_y3zUQqW_vKgSP-6Yg,1780253634/streaming/domash
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF: group-title="Развлекательные"  tvg-id="sarafan" -1,Сарафан
-http://185.78.112.47:8077/sarafan/index.m3u8
+http://217.174.229.136:8000/play/a06z
 
 #EXTINF:-1 tvg-id="zapad-24" tvg-logo="https://iptvx.one/picons/zapad-24.png" group-title="Местные" ,Запад 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
